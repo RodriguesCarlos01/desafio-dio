@@ -1,2 +1,7 @@
 Aprendendo a usar o Git/GitHub
 Link para donwload do GitDesktop:   https://desktop.github.com/
+
+Cursos que ja aprendi na Dio :
+ Introdução ao Git e ao GitHub,  
+Introdução à Programação e Pensamento Computacional,
+Como Entregar seu Desafio de Projeto
