@@ -5,3 +5,6 @@ Cursos que ja aprendi na Dio :
  Introdução ao Git e ao GitHub,  
 Introdução à Programação e Pensamento Computacional,
 Como Entregar seu Desafio de Projeto
+
+Meu atestado de conclução de Lógica da Programção de 80 horas:
+https://app.devstart.tech/certification/fcc33128e9f-a747-4b8d-9ac6-bf6836269c91/logica-de-programacao
